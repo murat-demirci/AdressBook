@@ -1,0 +1,46 @@
+body {
+    background: rgba(0, 0, 0, 0.8) !important;
+}
+
+ul li p {
+    margin: 0 !important;
+}
+
+.format {
+    font-size: 12px;
+}
+
+label,
+.format {
+    color: #fff;
+}
+
+#icon,
+#search,
+#searchclose {
+    display: block;
+    cursor: pointer;
+}
+
+#add {
+    margin: 15px 0 !important;
+    text-align: center;
+    width: 100%;
+}
+
+.contactdelete {
+    position: absolute;
+    right: 0;
+    cursor: pointer;
+}
+
+#creator h2 {
+    color: rgb(185, 185, 185);
+}
+
+#creator{
+    position: fixed;
+    background-color: rgba(107, 105, 105, 0.664);
+    bottom: 0;
+    width: 100%;
+}
